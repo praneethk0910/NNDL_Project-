@@ -1,1 +1,9 @@
-# NNDL_Project-
+VISION-BASED HUMAN ACTIVITY RECOGNITION USING DEEP LEARNING
+
+CS5720 Neural Network Deep Learning - Project
+
+Name: Praneeth Kumar
+
+ID: 700747594
+
+CRN: 22280
